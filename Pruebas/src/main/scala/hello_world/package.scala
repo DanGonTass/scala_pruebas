@@ -1,4 +1,4 @@
-package object hello_world {
+package object hello_world
 
 
 // esto es una prueba con github Autopilot
@@ -9,4 +9,3 @@ object HelloWorld {
   }
 }
 
-}
